@@ -1,6 +1,6 @@
 # BankManagementSystem 🏦
 
-A simple **Bank Management System** built using **Java**, **Swing (GUI)**, **JDBC**, and **MySQL**.
+A simple **Bank Management System** built using **Java**, **Swing (GUI)**, **JDBC**, and **MySQL**. It is a Java-based banking system with features like deposit, withdrawal, balance enquiry, pin change, mini statement and more.
 
 ## 📋 Features
 
@@ -20,7 +20,32 @@ A simple **Bank Management System** built using **Java**, **Swing (GUI)**, **JDB
 - JDBC (Java Database Connectivity)
 - Git & GitHub
 
-Project Structure :
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login](src/bank/management/system/pkg4/assets/Login.png)
+
+### 🔐 Sign up page 1
+![Login](src/bank/management/system/pkg4/assets/Signup_1.png)
+
+### 🔐 Sign up page 2
+![Login](src/bank/management/system/pkg4/assets/Signup_2.png)
+
+### 🔐 Sign up page 3
+![Login](src/bank/management/system/pkg4/assets/Signup_3.png)
+
+### 📑 Transactions
+![Mini Statement](src/bank/management/system/pkg4/assets/Transactions.png)
+
+### 💰 Deposit Page
+![Deposit](src/bank/management/system/pkg4/assets/Deposit.png)
+
+### 🏧 Withdraw Page
+![Withdraw](src/bank/management/system/pkg4/assets/Withdraw.png)
+
+
+## Project Structure :
 
 BankManagementSystem/
 ├── bank.management.system.pkg4/
